@@ -1,0 +1,14 @@
+{
+  "ModDisplayName": "Arizzble's Freecam Tools",
+  "ModVersion": "0.0.1",
+  "ModAuthor": "Arizzble",
+  "ModCompatibility": "The_Walking_Dead_Definitive_Edition",
+  "ModFiles": [
+    "MCSM_pc_Menu_data_ArizzblesFreecamTools.ttarch2",
+    "MCSM_pc_Minecraft101_data_ArizzblesFreecamTools.ttarch2",
+    "SceneTest_Data_ArizzblesFreecamTools.ttarch2",
+    "_resdesc_50_MCSM_pc_Menu_ArizzblesFreecamTools.lua",
+    "_resdesc_50_MCSM_pc_Minecraft101_ArizzblesFreecamTools.lua",
+    "_resdesc_50_SceneTest_Data_ArizzblesFreecamTools.lua"
+  ]
+}
