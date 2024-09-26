@@ -1,0 +1,13 @@
+{
+  "formatVersion": "1",
+  "tool": {
+    "game": "TTDS",
+    "legacyBuild": true
+  },
+  "mod": {
+    "name": "Arizzble's Freecam Tools",
+    "version": "0.0.1",
+    "author": "Arizzble",
+    "priority": 950
+  }
+}
